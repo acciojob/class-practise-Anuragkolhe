@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
-/* .cont{
+.cont{
 	background-color:#eee;
 	color:#00f;
-} */
-.cont:nth-child(2n-1){
+}
+/* .cont:nth-child(2n-1){
   background-color:#eee;
 	color:#00f;
-}
+} */
